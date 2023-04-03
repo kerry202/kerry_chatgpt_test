@@ -59,7 +59,7 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API.](https://platform.openai.com/doc
 
 ### Deploy With Netlify
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kerry202/kerry_chatgpt_test#OPENAI_API_KEY=&HTTPS_PROXY=&OPENAI_API_BASE_URL=&HEAD_SCRIPTS=&SECRET_KEY=&OPENAI_API_MODEL=&SITE_PASSWORD=)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2Fkerry202%2Fkerry_chatgpt_test&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=kerry-chatgpt-test&framework=astro&buildCommand=OUTPUT%3Dvercel+astro+build&totalProjects=1&remainingProjects=1)
 
 **Step-by-step deployment tutorial:**
 
