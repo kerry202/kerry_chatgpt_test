@@ -59,11 +59,11 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API.](https://platform.openai.com/doc
 
 ### Deploy With Netlify
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2Fkerry202%2Fkerry_chatgpt_test&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=kerry-chatgpt-test&framework=astro&buildCommand=OUTPUT%3Dvercel+astro+build&totalProjects=1&remainingProjects=1)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ddiu8081/chatgpt-demo#OPENAI_API_KEY=&HTTPS_PROXY=&OPENAI_API_BASE_URL=&HEAD_SCRIPTS=&SECRET_KEY=&OPENAI_API_MODEL=&SITE_PASSWORD=)
 
 **Step-by-step deployment tutorial:**
 
-1. [Fork](https://github.com/kerry202/kerry_chatgpt_test/fork) this project，Go to [https://app.netlify.com/start](https://app.netlify.com/start) new Site, select the project you `forked` done, and connect it with your `GitHub` account.
+1. [Fork](https://github.com/ddiu8081/chatgpt-demo/fork) this project，Go to [https://app.netlify.com/start](https://app.netlify.com/start) new Site, select the project you `forked` done, and connect it with your `GitHub` account.
 
 ![image](https://cdn.staticaly.com/gh/yzh990918/static@master/20230310/image.3nlt4hgzb16o.webp)
 
@@ -137,15 +137,15 @@ You can control the website through environment variables.
 
 Q: TypeError: fetch failed (can't connect to OpenAI Api)
 
-A: Configure environment variables `HTTPS_PROXY`，reference: https://github.com/kerry202/kerry_chatgpt_test/issues/34
+A: Configure environment variables `HTTPS_PROXY`，reference: https://github.com/ddiu8081/chatgpt-demo/issues/34
 
 Q: throw new TypeError(${context} is not a ReadableStream.)
 
-A: The Node version needs to be `v18` or later，reference: https://github.com/kerry202/kerry_chatgpt_test/issues/65
+A: The Node version needs to be `v18` or later，reference: https://github.com/ddiu8081/chatgpt-demo/issues/65
 
 Q: Accelerate domestic access without the need for proxy deployment tutorial?
 
-A: You can refer to this tutorial: https://github.com/kerry202/kerry_chatgpt_test/discussions/270
+A: You can refer to this tutorial: https://github.com/ddiu8081/chatgpt-demo/discussions/270
 
 Q: `PWA` is not working?
 
@@ -156,8 +156,8 @@ This project exists thanks to all those who contributed.
 
 Thank you to all our supporters!🙏
 
-[![img](https://contributors.nn.ci/api?repo=ddiu8081/chatgpt-demo)](https://github.com/kerry202/kerry_chatgpt_test/graphs/contributors)
+[![img](https://contributors.nn.ci/api?repo=ddiu8081/chatgpt-demo)](https://github.com/ddiu8081/chatgpt-demo/graphs/contributors)
 
 ## License
 
-MIT © [ddiu8081](https://github.com/kerry202/kerry_chatgpt_test/blob/main/LICENSE)
+MIT © [ddiu8081](https://github.com/ddiu8081/chatgpt-demo/blob/main/LICENSE)
